@@ -1,0 +1,317 @@
+{
+  "marketPrices": {
+    "lastUpdated": "2025-10-04T10:00:00Z",
+    "districts": {
+      "colombo": {
+        "name": {
+          "en": "Colombo",
+          "si": "කොළඹ",
+          "ta": "கொழும்பு"
+        },
+        "varieties": {
+          "samba": {
+            "name": {
+              "en": "Samba",
+              "si": "සම්බා",
+              "ta": "சம்பா"
+            },
+            "prices": {
+              "dry": { "price": 120, "unit": "LKR/kg", "change": "+2" },
+              "wet": { "price": 130, "unit": "LKR/kg", "change": "+1" }
+            }
+          },
+          "naadu-red": {
+            "name": {
+              "en": "Red Naadu",
+              "si": "රතු නාඩු",
+              "ta": "சிவப்பு நாடு"
+            },
+            "prices": {
+              "dry": { "price": 110, "unit": "LKR/kg", "change": "0" },
+              "wet": { "price": 115, "unit": "LKR/kg", "change": "+1" }
+            }
+          },
+          "naadu-white": {
+            "name": {
+              "en": "White Naadu",
+              "si": "සුදු නාඩු",
+              "ta": "வெள்ளை நாடு"
+            },
+            "prices": {
+              "dry": { "price": 115, "unit": "LKR/kg", "change": "+3" },
+              "wet": { "price": 120, "unit": "LKR/kg", "change": "+2" }
+            }
+          },
+          "keeri-samba": {
+            "name": {
+              "en": "Keeri Samba",
+              "si": "කීරි සම්බා",
+              "ta": "கீரி சம்பா"
+            },
+            "prices": {
+              "dry": { "price": 125, "unit": "LKR/kg", "change": "+1" },
+              "wet": { "price": 135, "unit": "LKR/kg", "change": "+2" }
+            }
+          }
+        }
+      },
+      "kandy": {
+        "name": {
+          "en": "Kandy",
+          "si": "මහනුවර",
+          "ta": "கண்டி"
+        },
+        "varieties": {
+          "samba": {
+            "name": {
+              "en": "Samba",
+              "si": "සම්බා",
+              "ta": "சம்பா"
+            },
+            "prices": {
+              "dry": { "price": 118, "unit": "LKR/kg", "change": "+1" },
+              "wet": { "price": 128, "unit": "LKR/kg", "change": "+2" }
+            }
+          },
+          "naadu-red": {
+            "name": {
+              "en": "Red Naadu",
+              "si": "රතු නාඩු",
+              "ta": "சிவப்பு நாடு"
+            },
+            "prices": {
+              "dry": { "price": 108, "unit": "LKR/kg", "change": "-1" },
+              "wet": { "price": 113, "unit": "LKR/kg", "change": "0" }
+            }
+          },
+          "naadu-white": {
+            "name": {
+              "en": "White Naadu",
+              "si": "සුදු නාඩු",
+              "ta": "வெள்ளை நாடு"
+            },
+            "prices": {
+              "dry": { "price": 113, "unit": "LKR/kg", "change": "+2" },
+              "wet": { "price": 118, "unit": "LKR/kg", "change": "+1" }
+            }
+          },
+          "keeri-samba": {
+            "name": {
+              "en": "Keeri Samba",
+              "si": "කීරි සම්බා",
+              "ta": "கீரி சம்பா"
+            },
+            "prices": {
+              "dry": { "price": 123, "unit": "LKR/kg", "change": "0" },
+              "wet": { "price": 133, "unit": "LKR/kg", "change": "+1" }
+            }
+          }
+        }
+      },
+      "kurunegala": {
+        "name": {
+          "en": "Kurunegala",
+          "si": "කුරුණෑගල",
+          "ta": "குருணாகல்"
+        },
+        "varieties": {
+          "samba": {
+            "name": {
+              "en": "Samba",
+              "si": "සම්බා",
+              "ta": "சம்பா"
+            },
+            "prices": {
+              "dry": { "price": 116, "unit": "LKR/kg", "change": "+2" },
+              "wet": { "price": 126, "unit": "LKR/kg", "change": "+3" }
+            }
+          },
+          "naadu-red": {
+            "name": {
+              "en": "Red Naadu",
+              "si": "රතු නාඩු",
+              "ta": "சிவப்பு நாடு"
+            },
+            "prices": {
+              "dry": { "price": 106, "unit": "LKR/kg", "change": "+1" },
+              "wet": { "price": 111, "unit": "LKR/kg", "change": "+2" }
+            }
+          },
+          "keeri-samba": {
+            "name": {
+              "en": "Keeri Samba",
+              "si": "කීරි සම්බා",
+              "ta": "கீரி சம்பா"
+            },
+            "prices": {
+              "dry": { "price": 121, "unit": "LKR/kg", "change": "+1" },
+              "wet": { "price": 131, "unit": "LKR/kg", "change": "+2" }
+            }
+          }
+        }
+      },
+      "anuradhapura": {
+        "name": {
+          "en": "Anuradhapura",
+          "si": "අනුරාධපුර",
+          "ta": "அனுராதபுரம்"
+        },
+        "varieties": {
+          "samba": {
+            "name": {
+              "en": "Samba",
+              "si": "සම්බා",
+              "ta": "சம்பா"
+            },
+            "prices": {
+              "dry": { "price": 114, "unit": "LKR/kg", "change": "+1" },
+              "wet": { "price": 124, "unit": "LKR/kg", "change": "+2" }
+            }
+          },
+          "naadu-red": {
+            "name": {
+              "en": "Red Naadu",
+              "si": "රතු නාඩු",
+              "ta": "சிवப்பு நாடு"
+            },
+            "prices": {
+              "dry": { "price": 104, "unit": "LKR/kg", "change": "0" },
+              "wet": { "price": 109, "unit": "LKR/kg", "change": "+1" }
+            }
+          },
+          "naadu-white": {
+            "name": {
+              "en": "White Naadu",
+              "si": "සුදු නාඩු",
+              "ta": "வெள்ளை நாடு"
+            },
+            "prices": {
+              "dry": { "price": 111, "unit": "LKR/kg", "change": "+2" },
+              "wet": { "price": 116, "unit": "LKR/kg", "change": "+1" }
+            }
+          }
+        }
+      },
+      "polonnaruwa": {
+        "name": {
+          "en": "Polonnaruwa",
+          "si": "පොළොන්නරුව",
+          "ta": "பொலன்னறுவை"
+        },
+        "varieties": {
+          "samba": {
+            "name": {
+              "en": "Samba",
+              "si": "සම්බා",
+              "ta": "சம்பா"
+            },
+            "prices": {
+              "dry": { "price": 112, "unit": "LKR/kg", "change": "+1" },
+              "wet": { "price": 122, "unit": "LKR/kg", "change": "+2" }
+            }
+          },
+          "naadu-red": {
+            "name": {
+              "en": "Red Naadu",
+              "si": "රතු නාඩු",
+              "ta": "சிவப்பு நாடு"
+            },
+            "prices": {
+              "dry": { "price": 102, "unit": "LKR/kg", "change": "0" },
+              "wet": { "price": 107, "unit": "LKR/kg", "change": "+1" }
+            }
+          },
+          "keeri-samba": {
+            "name": {
+              "en": "Keeri Samba",
+              "si": "කීරි සම්බා",
+              "ta": "கீரி சம்பா"
+            },
+            "prices": {
+              "dry": { "price": 119, "unit": "LKR/kg", "change": "+2" },
+              "wet": { "price": 129, "unit": "LKR/kg", "change": "+3" }
+            }
+          }
+        }
+      }
+    }
+  },
+  "cultivationSeasons": {
+    "maha": {
+      "name": {
+        "en": "Maha Season",
+        "si": "මහ කන්නය",
+        "ta": "மகா பருவம்"
+      },
+      "period": "October - March",
+      "plantingPeriod": {
+        "start": "October",
+        "end": "December",
+        "optimal": "November"
+      },
+      "harvestingPeriod": {
+        "start": "February",
+        "end": "March",
+        "optimal": "February"
+      },
+      "suitableVarieties": ["samba", "naadu-red", "keeri-samba"],
+      "rainfall": "High (Monsoon season)",
+      "irrigation": "Minimal supplementary irrigation needed",
+      "tips": {
+        "en": [
+          "Plant during early November for best yields",
+          "Ensure proper drainage during heavy rains",
+          "Monitor for blast disease during wet periods"
+        ],
+        "si": [
+          "හොඳම අස්වැන්නක් සඳහා නොවැම්බර් මුලදීම වගා කරන්න",
+          "අධික වර්ෂාව අතරතුර නිසි ජල බැහැරීම සහතික කරන්න",
+          "තෙත් කාලවලදී blast රෝගය නිරීක්ෂණය කරන්න"
+        ],
+        "ta": [
+          "சிறந்த மகசூலுக்காக நவம்பர் தொடக்கத்தில் நடவு செய்யுங்கள்",
+          "கனமழையின்போது சரியான வடிகால் உறுதி செய்யுங்கள்",
+          "ஈரமான காலங்களில் வெடி நோயை கண்காணியுங்கள்"
+        ]
+      }
+    },
+    "yala": {
+      "name": {
+        "en": "Yala Season",
+        "si": "යල කන්නය",
+        "ta": "யாலா பருவம்"
+      },
+      "period": "April - September",
+      "plantingPeriod": {
+        "start": "April",
+        "end": "June",
+        "optimal": "May"
+      },
+      "harvestingPeriod": {
+        "start": "August",
+        "end": "September",
+        "optimal": "August"
+      },
+      "suitableVarieties": ["naadu-white", "samba"],
+      "rainfall": "Low (Dry season)",
+      "irrigation": "Requires consistent irrigation",
+      "tips": {
+        "en": [
+          "Ensure adequate water supply before planting",
+          "Plant early morning or evening to avoid heat stress",
+          "Monitor for drought stress regularly"
+        ],
+        "si": [
+          "වගා කිරීමට පෙර ප්‍රමාණවත් ජල සැපයුම සහතික කරන්න",
+          "උෂ්ණ ආතතිය වළක්වා ගැනීම සඳහා උදේ හෝ සවස් වගා කරන්න",
+          "නියත වශයෙන් නියඟ ආතතිය නිරීක්ෂණය කරන්න"
+        ],
+        "ta": [
+          "நடவுக்கு முன் போதுமான நீர் விநியோகத்தை உறுதி செய்யுங்கள்",
+          "வெப்ப அழுத்தத்தைத் தவிர்க்க காலை அல்லது மாலை நடவு செய்யுங்கள்",
+          "வறட்சி அழுத்தத்தை தொடர்ந்து கண்காணியுங்கள்"
+        ]
+      }
+    }
+  }
+}
